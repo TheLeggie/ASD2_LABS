@@ -1,0 +1,14 @@
+E:\C#Projects\ASD2\Lab01\WydawanieReszty\CrossoutChecker\bin\Debug\net10.0\CrossoutChecker.exe
+E:\C#Projects\ASD2\Lab01\WydawanieReszty\CrossoutChecker\bin\Debug\net10.0\CrossoutChecker.deps.json
+E:\C#Projects\ASD2\Lab01\WydawanieReszty\CrossoutChecker\bin\Debug\net10.0\CrossoutChecker.runtimeconfig.json
+E:\C#Projects\ASD2\Lab01\WydawanieReszty\CrossoutChecker\bin\Debug\net10.0\CrossoutChecker.dll
+E:\C#Projects\ASD2\Lab01\WydawanieReszty\CrossoutChecker\bin\Debug\net10.0\CrossoutChecker.pdb
+E:\C#Projects\ASD2\Lab01\WydawanieReszty\CrossoutChecker\obj\Debug\net10.0\CrossoutChecker.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#Projects\ASD2\Lab01\WydawanieReszty\CrossoutChecker\obj\Debug\net10.0\CrossoutChecker.AssemblyInfoInputs.cache
+E:\C#Projects\ASD2\Lab01\WydawanieReszty\CrossoutChecker\obj\Debug\net10.0\CrossoutChecker.AssemblyInfo.cs
+E:\C#Projects\ASD2\Lab01\WydawanieReszty\CrossoutChecker\obj\Debug\net10.0\CrossoutChecker.csproj.CoreCompileInputs.cache
+E:\C#Projects\ASD2\Lab01\WydawanieReszty\CrossoutChecker\obj\Debug\net10.0\CrossoutChecker.dll
+E:\C#Projects\ASD2\Lab01\WydawanieReszty\CrossoutChecker\obj\Debug\net10.0\refint\CrossoutChecker.dll
+E:\C#Projects\ASD2\Lab01\WydawanieReszty\CrossoutChecker\obj\Debug\net10.0\CrossoutChecker.pdb
+E:\C#Projects\ASD2\Lab01\WydawanieReszty\CrossoutChecker\obj\Debug\net10.0\CrossoutChecker.genruntimeconfig.cache
+E:\C#Projects\ASD2\Lab01\WydawanieReszty\CrossoutChecker\obj\Debug\net10.0\ref\CrossoutChecker.dll

@@ -1,0 +1,17 @@
+E:\C#Projects\ASD2\Lab01\WydawanieReszty\bin\Debug\net10.0\WydawanieReszty.exe
+E:\C#Projects\ASD2\Lab01\WydawanieReszty\bin\Debug\net10.0\WydawanieReszty.deps.json
+E:\C#Projects\ASD2\Lab01\WydawanieReszty\bin\Debug\net10.0\WydawanieReszty.runtimeconfig.json
+E:\C#Projects\ASD2\Lab01\WydawanieReszty\bin\Debug\net10.0\WydawanieReszty.dll
+E:\C#Projects\ASD2\Lab01\WydawanieReszty\bin\Debug\net10.0\WydawanieReszty.pdb
+E:\C#Projects\ASD2\Lab01\WydawanieReszty\bin\Debug\net10.0\TestSet.dll
+E:\C#Projects\ASD2\Lab01\WydawanieReszty\obj\Debug\net10.0\WydawanieReszty.csproj.AssemblyReference.cache
+E:\C#Projects\ASD2\Lab01\WydawanieReszty\obj\Debug\net10.0\WydawanieReszty.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#Projects\ASD2\Lab01\WydawanieReszty\obj\Debug\net10.0\WydawanieReszty.AssemblyInfoInputs.cache
+E:\C#Projects\ASD2\Lab01\WydawanieReszty\obj\Debug\net10.0\WydawanieReszty.AssemblyInfo.cs
+E:\C#Projects\ASD2\Lab01\WydawanieReszty\obj\Debug\net10.0\WydawanieReszty.csproj.CoreCompileInputs.cache
+E:\C#Projects\ASD2\Lab01\WydawanieReszty\obj\Debug\net10.0\Wydawani.0ABFDC3C.Up2Date
+E:\C#Projects\ASD2\Lab01\WydawanieReszty\obj\Debug\net10.0\WydawanieReszty.dll
+E:\C#Projects\ASD2\Lab01\WydawanieReszty\obj\Debug\net10.0\refint\WydawanieReszty.dll
+E:\C#Projects\ASD2\Lab01\WydawanieReszty\obj\Debug\net10.0\WydawanieReszty.pdb
+E:\C#Projects\ASD2\Lab01\WydawanieReszty\obj\Debug\net10.0\WydawanieReszty.genruntimeconfig.cache
+E:\C#Projects\ASD2\Lab01\WydawanieReszty\obj\Debug\net10.0\ref\WydawanieReszty.dll

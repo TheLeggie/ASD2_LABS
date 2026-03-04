@@ -1,0 +1,17 @@
+E:\C#Projects\ASD2\Lab01\Lab01_25\bin\Debug\net10.0\Lab01_25.exe
+E:\C#Projects\ASD2\Lab01\Lab01_25\bin\Debug\net10.0\Lab01_25.deps.json
+E:\C#Projects\ASD2\Lab01\Lab01_25\bin\Debug\net10.0\Lab01_25.runtimeconfig.json
+E:\C#Projects\ASD2\Lab01\Lab01_25\bin\Debug\net10.0\Lab01_25.dll
+E:\C#Projects\ASD2\Lab01\Lab01_25\bin\Debug\net10.0\Lab01_25.pdb
+E:\C#Projects\ASD2\Lab01\Lab01_25\bin\Debug\net10.0\TestSet.dll
+E:\C#Projects\ASD2\Lab01\Lab01_25\obj\Debug\net10.0\Lab01_25.csproj.AssemblyReference.cache
+E:\C#Projects\ASD2\Lab01\Lab01_25\obj\Debug\net10.0\Lab01_25.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#Projects\ASD2\Lab01\Lab01_25\obj\Debug\net10.0\Lab01_25.AssemblyInfoInputs.cache
+E:\C#Projects\ASD2\Lab01\Lab01_25\obj\Debug\net10.0\Lab01_25.AssemblyInfo.cs
+E:\C#Projects\ASD2\Lab01\Lab01_25\obj\Debug\net10.0\Lab01_25.csproj.CoreCompileInputs.cache
+E:\C#Projects\ASD2\Lab01\Lab01_25\obj\Debug\net10.0\Lab01_25.csproj.Up2Date
+E:\C#Projects\ASD2\Lab01\Lab01_25\obj\Debug\net10.0\Lab01_25.dll
+E:\C#Projects\ASD2\Lab01\Lab01_25\obj\Debug\net10.0\refint\Lab01_25.dll
+E:\C#Projects\ASD2\Lab01\Lab01_25\obj\Debug\net10.0\Lab01_25.pdb
+E:\C#Projects\ASD2\Lab01\Lab01_25\obj\Debug\net10.0\Lab01_25.genruntimeconfig.cache
+E:\C#Projects\ASD2\Lab01\Lab01_25\obj\Debug\net10.0\ref\Lab01_25.dll
