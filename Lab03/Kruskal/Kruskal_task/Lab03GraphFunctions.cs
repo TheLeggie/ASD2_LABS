@@ -141,7 +141,39 @@ namespace ASD
         //      Zadanie jest bardzo łatwe (jeśli wydaje się trudne - poszukać prostszego sposobu, a nie walczyć z trudnym!)
         public bool Lab03IsUndirectedAcyclic(Graph g)
         {
+            bool[] visited = new bool[g.VertexCount];
+            int components = 0;
+            int edges = 0;
+            int vertices = g.VertexCount;
+
+
+            foreach (var e in g.DFS().SearchAll())
+            {
+                edges++;
+
+                if (visited[e.From] == false)
+                {
+                    components++;
+                }
+
+                visited[e.From] = true;
+                visited[e.To] = true;
+            }
+
+            edges /= 2;
+
+            for (int i = 0; i < vertices; i++)
+            {
+                if (visited[i] == false)
+                {
+                    visited[i] = true;
+                    components++;
+                }
+            }
+
+            if (vertices == edges + components) return true;
             return false;
+        }
         }
 
     }
