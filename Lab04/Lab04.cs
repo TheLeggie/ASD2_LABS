@@ -117,7 +117,7 @@ namespace ASD
                 }
             }
             int endNode = -1;
-            List<int> endNodes = end_v.ToList();
+            HashSet<int> endNodes = new HashSet<int>(end_v);
             while (queue.Count > 0)
             {
                 int currentNode = queue.Dequeue();
