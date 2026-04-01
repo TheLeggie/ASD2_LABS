@@ -4,6 +4,6 @@ Rozwiązania zadań z przedmiotu **Algorytmy i Struktury Danych 2**, realizowane
 
 ## Zrealizowane laboratoria:
 
-* **Lab01** - Dynamic programming (programowanie dynamiczne)
-* **Lab03** - Graphs algorithms (algorytmy grafowe)
-* **Lab04** - Shortest path finding (znajdowanie najkrótszej ścieżki)
+* **Lab01** - Dynamic programming
+* **Lab03** - Graphs algorithms
+* **Lab04** - Shortest path finding
